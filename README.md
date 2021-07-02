@@ -22,6 +22,7 @@ The installations for this project are as follows:
 ```python
 pip install fire
 pip install questionary
+pip install pytest
 ```
 
 ---
