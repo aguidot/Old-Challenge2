@@ -18,6 +18,11 @@ The programming language for this project is Python. This project was run in VSC
 ## Installation Guide
 
 *In this section, you should include detailed installation notes containing code blocks and screenshots.*
+The installations for this project are as follows:
+```python
+pip install fire
+pip install questionary
+```
 
 ---
 
