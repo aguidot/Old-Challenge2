@@ -18,11 +18,14 @@ The programming language for this project is Python. This project was run in VSC
 ## Installation Guide
 
 *In this section, you should include detailed installation notes containing code blocks and screenshots.*
-The installations for this project are as follows:
+It is extremely important that you install the dependencies listed below, before running this application.
+
+The installations for this application are as follows:
 ```python
 pip install fire
 pip install questionary
 pip install pytest
+pip install mkdocs
 ```
 
 ---
@@ -43,12 +46,14 @@ pip install pytest
 
 *In this section, list all the people who contribute to this project; since you may want to be reached by recruiters or potential collaborators, include your contact e-mail, and optionally your LinkedIn or Twitter profile.*
 
-This current project was a combined effort of the Rice University Fintech Bootcamp professors, Teaching Assisants, and myself.
+This current project was a combined effort of the Rice University Fintech Bootcamp professors, Teaching Assisants, and myself. This project was also unofficially sponsored by coffee and redbull.
 
 ---
 
 ## License
 
 *When you share a project on a repository, especially a public one, it's important to choose the right license to specify others what they can and can not do with your source code and files. Use this section to include the licence you want to use.*
+
+The license for this project is MIT.
 
 Considering the combined effort for the Rice Fintech Bootcamp, I have looked into multiple licenses to know the options. As of right now, the license granted to this project is the MIT License. The MIT License is simple and only requires copyright and license notices must be preserved.
