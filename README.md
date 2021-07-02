@@ -5,7 +5,7 @@ You’re progressing in your role as an application developer at a fintech lendi
 
 *Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.*
 
-### Project applies software engineering best practices to create new features and enhancements for a loan qualifier application. As a user, I need the ability to save the qualifying loans to a CSV file so that I can share the results as a spreadsheet.
+### Project applies software engineering best practices to create new features and enhancements for a loan qualifier application. As a user, I need the ability to save the qualifying loans to a CSV file so that I can share the results as a spreadsheet. ###
 ---
 
 ## Technologies
