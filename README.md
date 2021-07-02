@@ -37,7 +37,7 @@ The programming language for this project is Python. This project was run in VSC
 
 *In this section, list all the people who contribute to this project; since you may want to be reached by recruiters or potential collaborators, include your contact e-mail, and optionally your LinkedIn or Twitter profile.*
 
-This current project was a combined effort of the Rice University Fintech Bootcamp professors and Teaching Assisants and myself.
+This current project was a combined effort of the Rice University Fintech Bootcamp professors, Teaching Assisants, and myself.
 
 ---
 
